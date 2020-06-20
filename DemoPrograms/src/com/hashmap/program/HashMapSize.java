@@ -13,7 +13,7 @@ public class HashMapSize {
 	 hashmap.put("Khaneja", 15);
 	 int size=hashmap.size();
 	 int hash=hashmap.hashCode();
-	 System.out.println(hash);
+	 System.out.println(size);
 
 	}
 
