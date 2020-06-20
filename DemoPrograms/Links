@@ -1,2 +1,5 @@
 Full Stack angular with Spring Boot Git Hub Link
 //https://github.com/in28minutes/full-stack-with-angular-and-spring-boot
+check node version : node -v
+check npm version : npm -v
+check CLI Version : ng -version
