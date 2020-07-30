@@ -2,4 +2,25 @@ Full Stack angular with Spring Boot Git Hub Link
 //https://github.com/in28minutes/full-stack-with-angular-and-spring-boot
 check node version : node -v
 check npm version : npm -v
-check CLI Version : ng -version
+check CLI Version : ng version
+ng help
+// create  the New project by using the below command
+ng new nameOfTheApplication
+//Run and build the application
+ng serve
+
+// Linting : It means we can check our code as per the coding standard
+ Command : ng lint
+ 
+ // How to find the particualr find in code studio
+ Command : ctrl+p write the file name
+ 
+ //To build the application 
+ Command : ng build
+ 
+ // To run the test cases we call the test cases "specs" and it can writen in the framework Jasmine and we can using "Karma" to run the tes
+ Command : ng test
+ 
+ // To run the application 
+ command : ng e2e
+	
